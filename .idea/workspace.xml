@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b63cba53-ee13-45b9-b4cb-ccb232a7b709" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/common/MemberDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/common/MemberDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/xmlconfig/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/javaconfig/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/javaconfig/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/annotationconfig/subsection01/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/annotationconfig/subsection01/java/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/annotationconfig/subsection02/xml/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/section01/xmlconfig/spring-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/section03/annotationconfig/spring-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Lecture/10_Spring/01_spring-core/chap01-ioc-container",
+    "last_opened_file_path": "C:/Lecture/10_Spring/spring-core/chap01-ioc-container",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -142,6 +123,7 @@
       <updated>1694136431687</updated>
       <workItem from="1694136432742" duration="9153000" />
       <workItem from="1694150727429" duration="651000" />
+      <workItem from="1694600830075" duration="6000" />
     </task>
     <servers />
   </component>
